@@ -9,7 +9,7 @@
 function __autoload($className)
 {
 
-    $dirArray = array('.', 'lib');
+    $dirArray = array('.', 'lib', 'samples');
 
     foreach ($dirArray as $file) {
 

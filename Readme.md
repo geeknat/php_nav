@@ -17,11 +17,25 @@
     
     const USERPWD = "user:password";
     
-    
    You can now check on the samples folder for some great 
    samples classes
    
-   Will add more classes on each commit
+   Check index.php file on how these sample classes are being called, 
+   depending on the request.
+   
+   Sample request
+   
+   `http://your_url/project_location/?request=YOUR_REQUEST`
+    
+    REQUEST CAN BE ANY OF THE FOLLOWING
+    
+    1.page_create -> Calls the SamplePageCreate class
+    2.codeunit -> Calls the SampleCodeUnit class
+  
+  _**MADE WITH LOVE BY @GeekNat**_
+  
+   
+   
    
    
        

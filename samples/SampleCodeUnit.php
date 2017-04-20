@@ -7,8 +7,6 @@
  * Time: 7:55 AM
  */
 
-require_once '../ClassLoader.php';
-
 class SampleCodeUnit
 {
 
